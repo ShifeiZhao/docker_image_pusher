@@ -1,5 +1,4 @@
 #支持私库
-ghcr.io/akosveres/xteve-arm64:latest
-xhofe/alist:latest
+jellyfin/jellyfin:2024070805-arm64
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
