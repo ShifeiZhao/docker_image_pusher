@@ -7,5 +7,5 @@
 #--platform=linux/arm64 xhofe/alist:latest
 #--platform=linux/arm64 mzz2017/v2raya:latest
 #--platform=linux/arm64 shadowsocks/shadowsocks-libev:edge
-sulinggg/openwrt:arm_arm926ej-s
+sulinggg/openwrt:armv7
 
