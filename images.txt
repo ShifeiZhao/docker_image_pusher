@@ -6,5 +6,6 @@
 #--platform=linux/arm64 linuxserver/plex:1.40.4
 #--platform=linux/arm64 xhofe/alist:latest
 #--platform=linux/arm64 mzz2017/v2raya:latest
---platform=linux/arm64 shadowsocks/shadowsocks-libev:edge
+#--platform=linux/arm64 shadowsocks/shadowsocks-libev:edge
+sulinggg/openwrt:arm_arm926ej-s
 
