@@ -7,7 +7,7 @@
 #--platform=linux/arm64 xhofe/alist:latest
 #--platform=linux/arm64 mzz2017/v2raya:latest
 #--platform=linux/arm64 shadowsocks/shadowsocks-libev:edge
-#--platform=linux/arm64 dreamacro/clash:v1.18.0
+--platform=linux/arm64 dreamacro/clash:latest
 #--platform=linux/arm64 fooololo/aipan-netdisk-search:latest
---platform=linux/arm64 youshandefeiyang/allinone:latest
+#--platform=linux/arm64 youshandefeiyang/allinone:latest
 
