@@ -10,5 +10,6 @@
 #--platform=linux/arm64 dreamacro/clash:latest
 #--platform=linux/arm64 fooololo/aipan-netdisk-search:latest
 #--platform=linux/arm64 youshandefeiyang/allinone:latest
---platform=linux/arm64 haishanh/yacd:master
+#--platform=linux/arm64 haishanh/yacd:master
+--platform=linux/arm64 hanxi/xiaomusic:latest
 
